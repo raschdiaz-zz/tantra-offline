@@ -10,6 +10,8 @@
 6. Start 'CHATSRV' (letter 'Y')
 7. Start Zones (letters 'A-S')
 
+F.Y.I: Download all the zones using the following link: https://drive.google.com/drive/folders/1GfLlUeS0pl_2QS2QSS-jCU3tA5zGNrz4?usp=sharing
+
 ## How create account
 
 1. Open the 'TOOLS/Create Account' file
