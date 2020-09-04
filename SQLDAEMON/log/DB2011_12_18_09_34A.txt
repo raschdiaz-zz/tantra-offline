@@ -1,0 +1,8 @@
+111218 093416 -system		start log 
+111218 093519 -system		dbg [iThreadProc] ThreadID(5) idx(0) JobType(1) Charged(1) WorkThread(1) 
+111218 093519 -system		qry SELECT TOP 250 CharacterName FROM GAMEINFO00 WHERE Trimurity = 1 AND BrahmanPoint > 10000 AND DATEDIFF(day, curtime, GETDATE() ) < 60 ORDER BY BrahmanPoint DESC 
+111218 093519 -system		sql [Microsoft][SQL Native Client][SQL Server]Invalid object name 'GAMEINFO00'. 
+111218 094339 -system		dbg [iThreadProc] ThreadID(2) idx(0) JobType(0) Charged(1) WorkThread(1) 
+111218 094350 -system		qry SELECT idx FROM TantraBackup00 WHERE UserID = 'SAMISTHEBEST' 
+111218 094350 -system		sql [Microsoft][SQL Native Client][SQL Server]Invalid object name 'TantraBackup00'. 
+111218 094350 SAMISTHEBEST		Error selecting  

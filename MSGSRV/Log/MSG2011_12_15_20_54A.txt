@@ -1,0 +1,3 @@
+111215 205423 -system		start log 
+111215 205631 -system		sys new connection from 127.0.0.1 - zone :1 
+111215 211007 -system		clo server fd 0 

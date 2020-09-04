@@ -1,0 +1,5 @@
+111218 095606 00000000 -system start log 
+111218 095732 00000000 -system sys new connection from 127.0.0.1 - zone :1 
+111218 100139 00000000 -system sys wsa_acceptadmin 127.0.0.1 <0> 
+111218 100926 00000000 SAMISTHEBEST create character [Maria] 
+111218 101555 00000000 SAMISTHEBEST create character [Princess] 

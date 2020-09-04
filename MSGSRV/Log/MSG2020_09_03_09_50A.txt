@@ -1,0 +1,10 @@
+200903 095011 -system		start log 
+200903 095154 -system		sys new connection from 192.168.1.2 - zone :1 
+200903 095721 -system		dbg m_mapTable.insert char:HansYaksa idx:1 
+200903 095819 -system		dbg m_mapTable.erase char:HansYaksa idx:1 
+200903 100127 -system		dbg m_mapTable.insert char:HansYaksa idx:1 
+200903 101404 -system		dbg m_mapTable.erase char:HansYaksa idx:1 
+200903 103555 -system		dbg m_mapTable.insert char:HansYaksa idx:1 
+200903 104124 -system		dbg m_mapTable.insert char:hansmalcolm1 idx:2 
+200903 104608 -system		dbg m_mapTable.erase char:hansmalcolm1 idx:2 
+200903 104622 -system		dbg m_mapTable.erase char:HansYaksa idx:1 

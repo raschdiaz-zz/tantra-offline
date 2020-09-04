@@ -1,0 +1,18 @@
+111028 071638 -system		start log 
+111028 071811 -system		sys new connection from 127.0.0.1 - zone :1 
+111028 072609 -system		dbg m_mapTable.insert char:Cyndicate idx:1 
+111028 072745 -system		dbg m_mapTable.erase char:Cyndicate idx:1 
+111028 073643 -system		dbg m_mapTable.insert char:Cyndicate idx:1 
+111028 074232 -system		dbg m_mapTable.erase char:Cyndicate idx:1 
+111028 074515 -system		dbg m_mapTable.insert char:Cyndicate idx:1 
+111028 074826 -system		dbg m_mapTable.erase char:Cyndicate idx:1 
+111028 074918 -system		dbg m_mapTable.insert char:awaw idx:1 
+111028 075502 -system		dbg m_mapTable.erase char:awaw idx:1 
+111028 075547 -system		dbg m_mapTable.insert char:Dudul idx:1 
+111028 075949 -system		dbg m_mapTable.erase char:Dudul idx:1 
+111028 080026 -system		dbg m_mapTable.insert char:Cyndicate idx:1 
+111028 080842 -system		dbg m_mapTable.erase char:Cyndicate idx:1 
+111028 081900 -system		dbg m_mapTable.insert char:Cyndicate idx:1 
+111028 082151 -system		dbg m_mapTable.erase char:Cyndicate idx:1 
+111028 082800 -system		dbg m_mapTable.insert char:Cyndicate idx:1 
+111028 082954 -system		dbg m_mapTable.erase char:Cyndicate idx:1 

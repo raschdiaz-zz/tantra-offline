@@ -1,0 +1,4 @@
+1 TantraGM sa 123456 (***** = Computer Name)
+
+EXAMPLE :
+1 TantraGM sa office computer

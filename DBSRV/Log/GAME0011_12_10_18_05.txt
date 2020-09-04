@@ -1,0 +1,4 @@
+111210 180538 00000000 -system qry SELECT idx FROM TantraBackup01 WHERE UserID = 'AAAA1234' 
+111210 180538 00000000 -system sql [Microsoft][SQL Native Client][SQL Server]Invalid object name 'TantraBackup01'. 
+111210 180538 00000000 AAAA1234 Error selecting Account:AAAA1234 
+111210 180540 00000000 FORBIDENSAM dbg Account:FORBIDENSAM have 3 empty slot 

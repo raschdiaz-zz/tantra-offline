@@ -1,0 +1,10 @@
+111216 041014 -system		start log 
+111216 041141 -system		sys new connection from 127.0.0.1 - zone :1 
+111216 041448 -system		dbg m_mapTable.insert char:SamTheGreat idx:1 
+111216 041723 -system		dbg m_mapTable.erase char:SamTheGreat idx:1 
+111216 044750 -system		dbg m_mapTable.insert char:SamTheGreat idx:1 
+111216 051506 -system		dbg m_mapTable.erase char:SamTheGreat idx:1 
+111216 052337 -system		dbg m_mapTable.insert char:SamTheGreat idx:1 
+111216 054515 -system		dbg m_mapTable.erase char:SamTheGreat idx:1 
+111216 054549 -system		dbg m_mapTable.insert char:GM SAM idx:1 
+111216 054756 -system		dbg m_mapTable.erase char:GM SAM idx:1 

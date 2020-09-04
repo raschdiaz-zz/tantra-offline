@@ -1,0 +1,2 @@
+200902 140711 -system start log 
+200902 140733 -system Connect to DBA(IP:, PORT:1004) Fail !! 

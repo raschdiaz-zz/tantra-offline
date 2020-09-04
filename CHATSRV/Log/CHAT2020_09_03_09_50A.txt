@@ -1,0 +1,4 @@
+200903 095020 -system start log 
+200903 095020 -system Connect to DBA(IP:192.168.1.2, PORT:6053) Success !! 
+200903 095642 -system dbg m_mapTable.insert account:RASCHDIAZ idx:1 
+200903 103840 -system dbg m_mapTable.insert account:HANSMALCOLM idx:2 

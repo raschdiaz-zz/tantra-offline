@@ -1,0 +1,2 @@
+111105 063215 -system		start log 
+111105 063325 -system		sys new connection from 127.0.0.1 - zone :1 

@@ -1,0 +1,6 @@
+200902 201510 00000000 -system start log 
+200902 201702 00000000 -system sys new connection from 127.0.0.1 - zone :1 
+200902 203844 00000000 RASCHDIAZ delete char [HansYaksa] 
+200902 203906 00000000 RASCHDIAZ create character [HansYaksa] 
+200902 204054 00000000 -system clo server fd zone :1 
+200902 204217 00000000 -system sys new connection from 127.0.0.1 - zone :1 

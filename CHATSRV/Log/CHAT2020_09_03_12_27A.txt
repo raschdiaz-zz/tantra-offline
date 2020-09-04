@@ -1,0 +1,2 @@
+200903 122718 -system start log 
+200903 122718 -system Connect to DBA(IP:192.168.1.2, PORT:6053) Success !! 

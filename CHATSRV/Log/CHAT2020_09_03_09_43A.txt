@@ -1,0 +1,4 @@
+200903 094341 -system start log 
+200903 094341 -system Connect to DBA(IP:192.168.1.2, PORT:6053) Success !! 
+200903 094949 -system clo server fd 0 
+200903 094953 -system reconnect DB fail. 

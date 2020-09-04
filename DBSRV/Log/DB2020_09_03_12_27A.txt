@@ -1,0 +1,4 @@
+200903 122708 00000000 -system start log 
+200903 122718 00000000 -system sys new connection from 192.168.1.2 - zone :53 
+200903 122841 00000000 -system sys new connection from 192.168.1.2 - zone :1 
+200903 131611 00000000 -system clo server fd zone :53 

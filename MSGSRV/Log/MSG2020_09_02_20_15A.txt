@@ -1,0 +1,11 @@
+200902 201515 -system		start log 
+200902 201702 -system		sys new connection from 127.0.0.1 - zone :1 
+200902 201842 -system		dbg m_mapTable.insert char:HansYaksa idx:1 
+200902 203823 -system		dbg m_mapTable.erase char:HansYaksa idx:1 
+200902 203916 -system		dbg m_mapTable.insert char:HansYaksa idx:1 
+200902 204009 -system		dbg m_mapTable.erase char:HansYaksa idx:1 
+200902 204054 -system		clo server fd 0 
+200902 204217 -system		sys new connection from 127.0.0.1 - zone :1 
+200902 204337 -system		dbg m_mapTable.insert char:HansYaksa idx:1 
+200902 204703 -system		dbg m_mapTable.erase char:HansYaksa idx:1 
+200902 205645 -system		clo server fd 0 

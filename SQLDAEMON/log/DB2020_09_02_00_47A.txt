@@ -1,0 +1,2 @@
+200902 004737 -system		start log 
+200902 004739 -system		err Can't connect to DB-Server. 

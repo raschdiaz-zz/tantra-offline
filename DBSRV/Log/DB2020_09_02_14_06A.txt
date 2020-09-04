@@ -1,0 +1,3 @@
+200902 140647 00000000 -system start log 
+200902 140757 00000000 -system sys new connection from 127.0.0.1 - zone :1 
+200902 141202 00000000 RASCHDIAZ create character [HansYaksa] 

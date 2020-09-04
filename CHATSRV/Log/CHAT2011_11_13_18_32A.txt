@@ -1,0 +1,2 @@
+111113 183218 -system start log 
+111113 183223 -system Connect to DBA(IP:Èn‡³200.110.135.179, PORT:1004) Fail !! 

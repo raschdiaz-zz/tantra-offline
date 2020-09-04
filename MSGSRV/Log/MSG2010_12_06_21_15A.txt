@@ -1,0 +1,5 @@
+101206 211536 -system		start log 
+101206 211549 -system		sys new connection from 127.0.0.1 - zone :1 
+101206 211621 -system		dbg m_mapTable.insert char:Cyndicate idx:1 
+101206 211642 -system		dbg m_mapTable.erase char:Cyndicate idx:1 
+101206 211720 -system		clo server fd 0 

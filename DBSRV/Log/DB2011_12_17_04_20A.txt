@@ -1,0 +1,9 @@
+111217 042045 00000000 -system start log 
+111217 042144 00000000 -system sys wsa_acceptadmin 127.0.0.1 <0> 
+111217 042159 00000000 -system sys new connection from 127.0.0.1 - zone :1 
+111217 045530 00000000 -system clo server fd zone :1 
+111217 052413 00000000 -system sys new connection from 127.0.0.1 - zone :1 
+111217 062902 00000000 FORBIDENSAM delete char [SamIsTheBest] 
+111217 062914 00000000 FORBIDENSAM delete char [GM SAM] 
+111217 062939 00000000 FORBIDENSAM create character [SamIsTheBest] 
+111217 065518 00000000 -system admin close fd 0 

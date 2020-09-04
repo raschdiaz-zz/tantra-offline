@@ -1,0 +1,5 @@
+111218 071535 00000000 -system start log 
+111218 071632 00000000 -system sys new connection from 127.0.0.1 - zone :1 
+111218 071659 00000000 -system sys wsa_acceptadmin 127.0.0.1 <0> 
+111218 080528 00000000 -system err savenquit3 Broken data 2 1 -858993460 MAEPRINCESS MAEPRINCESS 
+111218 081042 00000000 -system admin close fd 0 

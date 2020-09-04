@@ -1,0 +1,59 @@
+111112 083941 -system		start log 
+111112 084045 -system		dbg [iThreadProc] ThreadID(26) idx(0) JobType(1) Charged(1) WorkThread(1) 
+111112 084045 -system		qry SELECT TOP 250 CharacterName FROM GAMEINFO00 WHERE Trimurity = 1 AND BrahmanPoint > 10000 AND DATEDIFF(day, curtime, GETDATE() ) < 60 ORDER BY BrahmanPoint DESC 
+111112 084045 -system		sql [Microsoft][SQL Native Client][SQL Server]Invalid object name 'GAMEINFO00'. 
+111112 091110 -system		dbg [iThreadProc] ThreadID(13) idx(0) JobType(0) Charged(1) WorkThread(1) 
+111112 091114 -system		qry SELECT idx FROM TantraBackup00 WHERE UserID = 'MAEPRINCESS' 
+111112 091114 -system		sql [Microsoft][SQL Native Client][SQL Server]Invalid object name 'TantraBackup00'. 
+111112 091114 MAEPRINCESS		Error selecting  
+111112 093021 -system		dbg [iThreadProc] ThreadID(10) idx(0) JobType(0) Charged(1) WorkThread(1) 
+111112 093021 -system		qry SELECT idx FROM TantraBackup00 WHERE UserID = 'MAEPRINCESS' 
+111112 093021 -system		sql [Microsoft][SQL Native Client][SQL Server]Invalid object name 'TantraBackup00'. 
+111112 093021 MAEPRINCESS		Error selecting  
+111112 093737 -system		dbg [iThreadProc] ThreadID(4) idx(0) JobType(0) Charged(1) WorkThread(1) 
+111112 093737 -system		qry SELECT idx FROM TantraBackup00 WHERE UserID = 'MAEPRINCESS' 
+111112 093737 -system		sql [Microsoft][SQL Native Client][SQL Server]Invalid object name 'TantraBackup00'. 
+111112 093737 MAEPRINCESS		Error selecting  
+111112 094720 -system		dbg [iThreadProc] ThreadID(16) idx(0) JobType(0) Charged(1) WorkThread(1) 
+111112 094720 -system		qry SELECT idx FROM TantraBackup00 WHERE UserID = 'MAEPRINCESS' 
+111112 094720 -system		sql [Microsoft][SQL Native Client][SQL Server]Invalid object name 'TantraBackup00'. 
+111112 094720 MAEPRINCESS		Error selecting  
+111112 094919 -system		dbg [iThreadProc] ThreadID(14) idx(0) JobType(0) Charged(1) WorkThread(1) 
+111112 094919 -system		qry SELECT idx FROM TantraBackup00 WHERE UserID = 'MAEPRINCESS' 
+111112 094919 -system		sql [Microsoft][SQL Native Client][SQL Server]Invalid object name 'TantraBackup00'. 
+111112 094919 MAEPRINCESS		Error selecting  
+111112 094925 -system		dbg [iThreadProc] ThreadID(6) idx(0) JobType(0) Charged(1) WorkThread(1) 
+111112 094925 -system		qry SELECT idx FROM TantraBackup00 WHERE UserID = 'MAEPRINCESS' 
+111112 094925 -system		sql [Microsoft][SQL Native Client][SQL Server]Invalid object name 'TantraBackup00'. 
+111112 094925 MAEPRINCESS		Error selecting  
+111112 094926 -system		dbg [iThreadProc] ThreadID(6) idx(0) JobType(0) Charged(1) WorkThread(1) 
+111112 094926 -system		qry SELECT idx FROM TantraBackup00 WHERE UserID = 'MAEPRINCESS' 
+111112 094926 -system		sql [Microsoft][SQL Native Client][SQL Server]Invalid object name 'TantraBackup00'. 
+111112 094926 MAEPRINCESS		Error selecting  
+111112 095154 -system		dbg [iThreadProc] ThreadID(6) idx(0) JobType(0) Charged(1) WorkThread(1) 
+111112 095154 -system		qry SELECT idx FROM TantraBackup00 WHERE UserID = 'MAEPRINCESS' 
+111112 095154 -system		sql [Microsoft][SQL Native Client][SQL Server]Invalid object name 'TantraBackup00'. 
+111112 095154 MAEPRINCESS		Error selecting  
+111112 095154 -system		dbg [iThreadProc] ThreadID(23) idx(0) JobType(0) Charged(1) WorkThread(1) 
+111112 095154 -system		qry SELECT idx FROM TantraBackup00 WHERE UserID = 'MAEPRINCESS' 
+111112 095154 -system		sql [Microsoft][SQL Native Client][SQL Server]Invalid object name 'TantraBackup00'. 
+111112 095154 MAEPRINCESS		Error selecting  
+111112 095312 -system		dbg [iThreadProc] ThreadID(23) idx(0) JobType(0) Charged(1) WorkThread(1) 
+111112 095312 -system		qry SELECT idx FROM TantraBackup00 WHERE UserID = 'MAEPRINCESS' 
+111112 095312 -system		sql [Microsoft][SQL Native Client][SQL Server]Invalid object name 'TantraBackup00'. 
+111112 095312 MAEPRINCESS		Error selecting  
+111112 095427 -system		dbg [iThreadProc] ThreadID(21) idx(0) JobType(0) Charged(1) WorkThread(1) 
+111112 095427 -system		qry SELECT idx FROM TantraBackup00 WHERE UserID = 'MAEPRINCESS' 
+111112 095427 -system		sql [Microsoft][SQL Native Client][SQL Server]Invalid object name 'TantraBackup00'. 
+111112 095427 MAEPRINCESS		Error selecting  
+111112 095505 -system		dbg [iThreadProc] ThreadID(25) idx(0) JobType(0) Charged(1) WorkThread(1) 
+111112 095505 -system		qry SELECT idx FROM TantraBackup00 WHERE UserID = 'MAEPRINCESS' 
+111112 095505 -system		sql [Microsoft][SQL Native Client][SQL Server]Invalid object name 'TantraBackup00'. 
+111112 095505 MAEPRINCESS		Error selecting  
+111112 095657 -system		dbg [iThreadProc] ThreadID(8) idx(0) JobType(0) Charged(1) WorkThread(1) 
+111112 095657 -system		qry SELECT idx FROM TantraBackup00 WHERE UserID = 'MAEPRINCESS' 
+111112 095657 -system		sql [Microsoft][SQL Native Client][SQL Server]Invalid object name 'TantraBackup00'. 
+111112 095657 MAEPRINCESS		Error selecting  
+111112 100736 -system		clo server fd 420 
+111112 100736 -system		clo server receive 420 
+111112 100747 -system		err reconnect dbsrv file xxxxxxxxxxxxxxxxxx 

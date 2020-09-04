@@ -1,0 +1,2 @@
+111028 071631 00000000 -system start log 
+111028 071811 00000000 -system sys new connection from 127.0.0.1 - zone :1 

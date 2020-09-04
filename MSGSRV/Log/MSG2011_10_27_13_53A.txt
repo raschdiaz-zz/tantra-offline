@@ -1,0 +1,4 @@
+111027 135332 -system		start log 
+111027 135432 -system		sys new connection from 127.0.0.1 - zone :1 
+111027 135837 -system		dbg m_mapTable.insert char:Cyndicate idx:1 
+111027 140254 -system		dbg m_mapTable.erase char:Cyndicate idx:1 

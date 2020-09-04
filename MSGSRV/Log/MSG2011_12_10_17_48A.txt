@@ -1,0 +1,2 @@
+111210 174808 -system		start log 
+111210 174904 -system		sys new connection from 127.0.0.1 - zone :1 

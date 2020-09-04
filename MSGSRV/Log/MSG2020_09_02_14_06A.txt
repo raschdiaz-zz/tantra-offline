@@ -1,0 +1,4 @@
+200902 140657 -system		start log 
+200902 140757 -system		sys new connection from 127.0.0.1 - zone :1 
+200902 141216 -system		dbg m_mapTable.insert char:HansYaksa idx:1 
+200902 141405 -system		dbg m_mapTable.erase char:HansYaksa idx:1 

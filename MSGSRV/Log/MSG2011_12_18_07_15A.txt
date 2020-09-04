@@ -1,0 +1,24 @@
+111218 071540 -system		start log 
+111218 071632 -system		sys new connection from 127.0.0.1 - zone :1 
+111218 071920 -system		dbg m_mapTable.insert char:GM SAM idx:1 
+111218 072536 -system		dbg m_mapTable.erase char:GM SAM idx:1 
+111218 072611 -system		dbg m_mapTable.insert char:SamIsTheBest idx:1 
+111218 072701 -system		dbg m_mapTable.erase char:SamIsTheBest idx:1 
+111218 072701 -system		dbg m_mapTable.insert char:SamIsTheBest idx:1 
+111218 072737 -system		dbg m_mapTable.erase char:SamIsTheBest idx:1 
+111218 072825 -system		dbg m_mapTable.insert char:SamTheGreat idx:1 
+111218 072839 -system		dbg m_mapTable.erase char:SamTheGreat idx:1 
+111218 072839 -system		dbg m_mapTable.insert char:SamTheGreat idx:2 
+111218 072844 -system		dbg m_mapTable.erase char:SamTheGreat idx:2 
+111218 072844 -system		dbg m_mapTable.insert char:SamTheGreat idx:1 
+111218 072927 -system		dbg m_mapTable.erase char:SamTheGreat idx:1 
+111218 072957 -system		dbg m_mapTable.insert char:SamTheGreat idx:1 
+111218 073418 -system		dbg m_mapTable.erase char:SamTheGreat idx:1 
+111218 073532 -system		dbg m_mapTable.insert char:GM SAM idx:1 
+111218 073556 -system		dbg m_mapTable.erase char:GM SAM idx:1 
+111218 073858 -system		dbg m_mapTable.insert char:SamIsTheBest idx:1 
+111218 075657 -system		dbg m_mapTable.insert char:Mae idx:2 
+111218 080529 -system		dbg m_mapTable.erase char:Mae idx:2 
+111218 080608 -system		dbg m_mapTable.insert char:Mae idx:2 
+111218 081806 -system		dbg m_mapTable.erase char:Mae idx:2 
+111218 081903 -system		dbg m_mapTable.erase char:SamIsTheBest idx:1 

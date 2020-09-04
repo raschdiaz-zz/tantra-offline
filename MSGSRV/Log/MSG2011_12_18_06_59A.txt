@@ -1,0 +1,4 @@
+111218 065919 -system		start log 
+111218 070321 -system		sys new connection from 127.0.0.1 - zone :1 
+111218 070601 -system		dbg m_mapTable.insert char:GM SAM idx:1 
+111218 071100 -system		dbg m_mapTable.erase char:GM SAM idx:1 

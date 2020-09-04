@@ -1,0 +1,2 @@
+200903 122711 -system		start log 
+200903 122841 -system		sys new connection from 192.168.1.2 - zone :1 

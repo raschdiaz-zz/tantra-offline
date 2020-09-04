@@ -1,0 +1,30 @@
+111217 042054 -system		start log 
+111217 042159 -system		sys new connection from 127.0.0.1 - zone :1 
+111217 042957 -system		dbg m_mapTable.insert char:SamTheGreat idx:1 
+111217 045402 -system		dbg m_mapTable.erase char:SamTheGreat idx:1 
+111217 045530 -system		clo server fd 0 
+111217 052413 -system		sys new connection from 127.0.0.1 - zone :1 
+111217 054153 -system		dbg m_mapTable.insert char:SamIsTheBest idx:1 
+111217 054248 -system		dbg m_mapTable.erase char:SamIsTheBest idx:1 
+111217 055257 -system		dbg m_mapTable.insert char:SamIsTheBest idx:1 
+111217 055433 -system		dbg m_mapTable.erase char:SamIsTheBest idx:1 
+111217 055433 -system		dbg m_mapTable.insert char:SamIsTheBest idx:1 
+111217 060156 -system		dbg m_mapTable.erase char:SamIsTheBest idx:1 
+111217 060156 -system		dbg m_mapTable.insert char:SamIsTheBest idx:2 
+111217 060215 -system		dbg m_mapTable.erase char:SamIsTheBest idx:2 
+111217 062005 -system		dbg m_mapTable.insert char:SamIsTheBest idx:1 
+111217 062037 -system		dbg m_mapTable.erase char:SamIsTheBest idx:1 
+111217 062037 -system		dbg m_mapTable.insert char:SamIsTheBest idx:2 
+111217 062441 -system		dbg m_mapTable.erase char:SamIsTheBest idx:2 
+111217 062441 -system		dbg m_mapTable.insert char:SamIsTheBest idx:1 
+111217 062730 -system		dbg m_mapTable.erase char:SamIsTheBest idx:1 
+111217 062756 -system		dbg m_mapTable.insert char:SamIsTheBest idx:1 
+111217 062816 -system		dbg m_mapTable.erase char:SamIsTheBest idx:1 
+111217 062955 -system		dbg m_mapTable.insert char:SamIsTheBest idx:1 
+111217 063641 -system		dbg m_mapTable.erase char:SamIsTheBest idx:1 
+111217 065128 -system		dbg m_mapTable.insert char:SamIsTheBest idx:1 
+111217 065435 -system		dbg m_mapTable.erase char:SamIsTheBest idx:1 
+111217 065436 -system		dbg m_mapTable.insert char:SamIsTheBest idx:1 
+111217 065450 -system		dbg m_mapTable.erase char:SamIsTheBest idx:1 
+111217 065450 -system		dbg m_mapTable.insert char:SamIsTheBest idx:1 
+111217 065505 -system		dbg m_mapTable.erase char:SamIsTheBest idx:1 

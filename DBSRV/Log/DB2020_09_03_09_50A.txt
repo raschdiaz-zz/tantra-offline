@@ -1,0 +1,5 @@
+200903 095007 00000000 -system start log 
+200903 095020 00000000 -system sys new connection from 192.168.1.2 - zone :53 
+200903 095154 00000000 -system sys new connection from 192.168.1.2 - zone :1 
+200903 104114 00000000 HANSMALCOLM create character [hansmalcolm1] 
+200903 104739 00000000 -system clo server fd zone :53 
