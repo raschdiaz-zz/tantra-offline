@@ -7,18 +7,20 @@ echo                                 tantra Tools
 echo                                 Member Tools
 echo                                 SamTheGreaT
 echo.&echo.
-echo   ........................................................................
-echo   .      G = Open Server             P = Configurar IP                   .     
-echo   .      M = Open Clan Rank          I = Zone Info                       .
-echo   .                                              X = Close All servers   .
-echo   ........................................................................
-echo   ========================================================================
-echo   =                                                                      =
-echo   =                                                                      =
-echo   =      Copy the tool to C:/Server                                      =
-echo   =                                                                      =
-echo   =                                        Version 2.0  12/16/2011       =
-echo   ========================================================================
+echo   .............................................................
+echo   .                                                           .
+echo   .      G = Open Server           I = Zone Info              .     
+echo   .      M = Open Clan Rank        X = Close All servers      .
+echo   .      P = Configure the IP                                 .
+echo   .                                                           .
+echo   .............................................................
+echo   =============================================================
+echo   =                                                           =
+echo   =      Copy the tool to C:/Server                           =
+echo   =                                                           =
+echo   =                            Version 2.X  12/16/2020        =
+echo   =                                                           =
+echo   =============================================================
 ECHO.
 ECHO.
 set /p l=           Please enter:
@@ -96,48 +98,47 @@ echo                                tantra Tools
 echo                             Start Tantra Server
 echo                                 SamTheGreat
 echo.&echo.
-echo ...............................................................................
-echo .    A = Start Zone1  B = Start Zone2  C = Start Zone3   D = Start Zone4      .
-echo .    E = Start Zone5  J = Start Zone10 O = Start Zone15  T = Start Zone22     .
-echo .    F = Start Zone6  G = Start Zone7  H = Start Zone8   I = Start Zone9      .
-echo .    K = Start Zone11 L = Start Zone12 M = Start Zone13  N = Start Zone14     .
-echo .    P = Start Zone16 Q = Start Zone17 R = Start Zone20  S = Start Zone21     .
-echo .    W = Start DBSRV  X = Start MSGSRV Y = Start chatsrv V = Start Zone23     .
-echo .                                                                             .
-echo .                1 = Show Zone Info               2 = Return to Menu          .
-echo ...............................................................................
-ECHO.
-ECHO                       Please enter lowercase letters
+echo ................................................................................
+echo .                                                                              .
+echo .    A = Start Zone1  G = Start Zone7   M = Start Zone13  S = Start Zone21     .  
+echo .    B = Start Zone2  H = Start Zone8   N = Start Zone14  T = Start Zone22     .
+echo .    C = Start Zone3  I = Start Zone9   O = Start Zone15  U = Start Zone23     .
+echo .    D = Start Zone4  J = Start Zone10  P = Start Zone16  V = Start DBSRV      .
+echo .    E = Start Zone5  K = Start Zone11  Q = Start Zone17  W = Start MSGSRV     .
+echo .    F = Start Zone6  L = Start Zone12  R = Start Zone20  X = Start chatsrv    .
+echo .                                                                              .
+echo .             Y = Show Zone Info               Z = Return to Menu              .
+echo ................................................................................
 ECHO.
 ECHO.
 set /p l=           Please enter:
 if %l%==* goto error
-if %l%==a goto zone1
-if %l%==b goto zone2
-if %l%==c goto zone3
-if %l%==d goto zone4
-if %l%==e goto zone5
-if %l%==f goto zone6
-if %l%==g goto zone7
-if %l%==h goto zone8
-if %l%==i goto zone9
-if %l%==j goto zone10
-if %l%==k goto zone11
-if %l%==l goto zone12
-if %l%==m goto zone13
-if %l%==n goto zone14
-if %l%==o goto zone15
-if %l%==p goto zone16
-if %l%==q goto zone17
-if %l%==r goto zone20
-if %l%==s goto zone21
-if %l%==t goto zone22
-if %l%==v goto zone23
-if %l%==w goto dbsrv
-if %l%==x goto msgsrv
-if %l%==y goto chatsrv
-if %l%==1 goto zonesm
-if %l%==2 goto menu
+if %l%==A goto zone1
+if %l%==B goto zone2
+if %l%==C goto zone3
+if %l%==D goto zone4
+if %l%==E goto zone5
+if %l%==F goto zone6
+if %l%==G goto zone7
+if %l%==H goto zone8
+if %l%==I goto zone9
+if %l%==J goto zone10
+if %l%==K goto zone11
+if %l%==L goto zone12
+if %l%==M goto zone13
+if %l%==N goto zone14
+if %l%==O goto zone15
+if %l%==P goto zone16
+if %l%==Q goto zone17
+if %l%==R goto zone20
+if %l%==S goto zone21
+if %l%==T goto zone22
+if %l%==U goto zone23
+if %l%==V goto dbsrv
+if %l%==W goto msgsrv
+if %l%==X goto chatsrv
+if %l%==Y goto zonesm
+if %l%==Z goto menu
 goto error
 :zonesm
 cls
@@ -147,31 +148,30 @@ echo                                 tantra Tools
 echo                                   Zone Info 
 echo                                  SamTheGreat
 echo.&echo.
-echo ............................................................................
-echo .  1 = Mandara                                                             .
-echo .  2 = Shambala                                                            .
-echo .  3 = Horseman Dungeon 1st                                                .
-echo .  4 = Horseman Dungeon 2nd                                                .
-echo .  5 = Shambala Dungeon1st                                                 .
-echo .  6 = Shambala Dungeon2nd                                                 .
-echo .  7 = Jina Village                                                        .
-echo .  8 = Pamir Plains                                                        .
-echo .  9 = Village of the outcast(Exilio)                                      .
-echo .  10 = Kruma                                                              .
-echo .  11 = Chaturanga                                                         .
-echo .  12 = Entrance Hall of Emperor's Tomb                                    .
-echo .  13 = Karya Low Level                                                    .
-echo .  14 = Karya Middle Level                                                 .
-echo .  15 = Karya High Level                                                   .
-echo .  16 = Nar Durga Gate                                                     .
-echo .  17 = Biryu                                                              .
-echo .  20 = Anaka Kruma                                                        .
-echo .  21 = Mudha                                                              .
-echo .  22 = Forge                                                              .
-echo .                                                                          .
-echo ............................................................................
-ECHO.
-ECHO                                 ע�� ��1 = Zone1 
+echo ..........................................
+echo .                                        .
+echo .  1 = Mandara                           .
+echo .  2 = Shambala                          .
+echo .  3 = Horseman Dungeon 1st              .
+echo .  4 = Horseman Dungeon 2nd              .
+echo .  5 = Shambala Dungeon1st               .
+echo .  6 = Shambala Dungeon2nd               .
+echo .  7 = Jina Village                      .
+echo .  8 = Pamir Plains                      .
+echo .  9 = Village of the outcast(Exilio)    .
+echo .  10 = Kruma                            .
+echo .  11 = Chaturanga                       .
+echo .  12 = Entrance Hall of Emperor's Tomb  .
+echo .  13 = Karya Low Level                  .
+echo .  14 = Karya Middle Level               .
+echo .  15 = Karya High Level                 .
+echo .  16 = Nar Durga Gate                   .
+echo .  17 = Biryu                            .
+echo .  20 = Anaka Kruma                      .
+echo .  21 = Mudha                            .
+echo .  22 = Forge                            .
+echo .                                        .
+echo ..........................................
 PAUSE
 goto start
 :zone1
