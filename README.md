@@ -1,4 +1,4 @@
-# Tantra Offline (Kathana 3)
+# Tantra Offline (Kathana 3/4)
 
 ## How to run the server
 
@@ -10,7 +10,7 @@
 6. Start 'CHATSRV' (letter 'X')
 7. Start Zones (letters 'A-U')
 
-F.Y.I: Download all the zones using the following link: https://drive.google.com/drive/folders/1GfLlUeS0pl_2QS2QSS-jCU3tA5zGNrz4?usp=sharing . Create a new folder called 'ZONES' inside 'C:/Server' and put all zones folders there.
+F.Y.I: Download all the zones using the following URL: https://1drv.ms/u/s!Agmo1jiEwGNEyC1ESi5ELDOey5sI?e=MAzByM . Create a new folder called 'ZONES' inside 'C:/Server' and put the 'ZONES' folder there.
 
 ## How create account
 
@@ -24,8 +24,8 @@ F.Y.I: Download all the zones using the following link: https://drive.google.com
 
 ## If you dont have the client (NOT TESTED)
 
-1. Download this patch from this url: https://drive.google.com/drive/folders/1jQ4D7IkpKe0_2TcnAG38uE401avGB7e7?usp=sharing
-2. Apply the patch to a Kathana 4 client.
+1. Download the client from this URL: https://1drv.ms/u/s!Agmo1jiEwGNEyCzY4AHPwRN8KgxZ?e=HafFbv
+2. Open the 'Tantra.exe' file to edit the graphics settings.
 3. Open the game using the 'HTlauncher.exe' file.
 
 ## How to modify the server IP
