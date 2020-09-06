@@ -52,3 +52,13 @@ RwdRateForNormalItem = 150
 ## How to change language texts of client
 
 1. Edit 'OFFLINE CLIENT/system/*.txl' files
+
+## How to edit the launcher message (HTML)
+
+1. Edit 'OFFLINE CLIENT/version.dat' file
+
+## How to run server in public network
+
+1. Config server with local network ip (192.168.1.#)
+
+2. Open ports in router (1000 = login ; 3001-30## = maps)
