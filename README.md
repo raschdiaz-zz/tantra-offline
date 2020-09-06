@@ -20,11 +20,11 @@ F.Y.I: Download all the zones using the following URL: https://1drv.ms/u/s!Agmo1
 
 ## How to connect to the server
 
-1. Open offline client and start the game.
+1. Open the client and start the game.
 
-## If you dont have the client (NOT TESTED)
+## If you dont have the Client
 
-1. Download the client from this URL: https://1drv.ms/u/s!Agmo1jiEwGNEyCzY4AHPwRN8KgxZ?e=HafFbv
+1. Download the Client from this URL: https://1drv.ms/u/s!Agmo1jiEwGNEyCzY4AHPwRN8KgxZ?e=HafFbv
 2. Open the 'Tantra.exe' file to edit the graphics settings.
 3. Open the game using the 'HTlauncher.exe' file.
 
@@ -51,11 +51,11 @@ RwdRateForNormalItem = 150
 
 ## How to change language texts of client
 
-1. Edit 'OFFLINE CLIENT/system/*.txl' files
+1. Edit 'Client/system/*.txl' files
 
 ## How to edit the launcher message (HTML)
 
-1. Edit 'OFFLINE CLIENT/version.dat' file
+1. Edit 'Client/version.dat' file
 
 ## How to run server in public network
 
