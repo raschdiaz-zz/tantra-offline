@@ -62,3 +62,5 @@ RwdRateForNormalItem = 150
 1. Config server with local network ip (192.168.1.#)
 
 2. Open ports in router (1000 = login ; 3001-30## = maps)
+
+3. Set client 'ChatServer.cfg' and 'Serverlist.txt' files  with PUBLIC IP
